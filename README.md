@@ -10,7 +10,7 @@ Soy programador full stack con experiencia en la industria de seguros, consultor
 
 Tengo sólidos conocimientos en diseño de interfaces, experiencia de usuarios, code reviews, automatizacion de pruebas API y pruebas de seguridad.
 
-### Tecnologias
+### Tecnologias 👨🏻‍💻 
 
 Listado de tecnologías que uso para desarrollar diversos tipos proyectos.
 
@@ -57,9 +57,5 @@ Listado de tecnologías que uso para desarrollar diversos tipos proyectos.
 - Pruebas de seguridad de aplicaciones estaticas (SAST)
 - Y algunas más... 😄
 
-#### Redes sociales 💬
-
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+## Me puedes encontrar en 🌎: <img align="left" width="150" height="150" src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
+- <a href="https://www.linkedin.com/in/jon-gonmen/">LinkedIn</a> 💼
