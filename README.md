@@ -4,7 +4,7 @@
 
 ## Hola! Mi nombre es Jonathan Mendoza 👋
 
-Soy programador full stack con experiencia en la industria de seguros, consultoría y educacion. Me especializo en tecnologías con lenguajes como Java, Angular, JavaScript y Python.
+Soy programador full stack con experiencia en la industria de seguros, consultoría y educacion. Me especializo en tecnologías con lenguajes como Java, Angular, JavaScript entre otros.
 
 > Soy una persona emprendedora que se apasiona por aprender más sobre programación, tecnología y ciencias.
 
