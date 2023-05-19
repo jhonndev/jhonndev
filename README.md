@@ -55,6 +55,7 @@ Listado de tecnologías que uso para desarrollar diversos tipos de proyectos.
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/gitlab-white?style=for-the-badge&logo=gitlab&logoColor=orange">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
   <img src="https://img.shields.io/badge/soapui-yellow?style=for-the-badge&logo=soapui&logoColor=green">
@@ -64,6 +65,7 @@ Listado de tecnologías que uso para desarrollar diversos tipos de proyectos.
 
 - Microservicios con Java (SpringBoot) y C#
 - Creacion de Api's con SpringBoot, C# y NodeJs(Express)
+- Creación de Microfrontend con Angular
 - Documentación de API's con Swagger
 - Programación Orientada a Objetos (POO) y Modelo Vista Controlador (MVC)
 - Aplicaciones web progresivas (PWA)
