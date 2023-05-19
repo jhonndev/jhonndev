@@ -12,7 +12,7 @@ Tengo sólidos conocimientos en diseño de interfaces, experiencia de usuarios, 
 
 ### Tecnologias 👨🏻‍💻 
 
-Listado de tecnologías que uso para desarrollar diversos tipos proyectos.
+Listado de tecnologías que uso para desarrollar diversos tipos de proyectos.
 
 #### Frontend Development
 
@@ -37,6 +37,7 @@ Listado de tecnologías que uso para desarrollar diversos tipos proyectos.
   <img src="https://img.shields.io/badge/Django-0B2C1E?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-B4B4B4?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/Typescript-0074C3?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/csharp-purple?style=for-the-badge&logo=csharp&logoColor=white">
 </p>
 
 #### Database
@@ -61,12 +62,13 @@ Listado de tecnologías que uso para desarrollar diversos tipos proyectos.
 
 #### Otras Tecnologías ⚡
 
-- Consumo y creación de API's (REST/RESTful) con Swagger y OpenAPI
+- Microservicios con Java (SpringBoot) y C#
+- Creacion de Api's con SpringBoot, C# y NodeJs(Express)
+- Documentación de API's con Swagger
+- Programación Orientada a Objetos (POO) y Modelo Vista Controlador (MVC)
 - Aplicaciones web progresivas (PWA)
-- Programación Orientada a Objetos y Modelo Vista Controlador
-- Creación de websockets con Java EE
 - Docker, kubernetes, Elastic Stack, webpack, entornos virtuales
-- Microservicios con Angular y SpringBoot, patrones de diseño y seguridad
+- Patrones de diseño y seguridad
 - Pruebas de seguridad de aplicaciones estaticas (SAST)
 - Y algunas más... 😄
 
