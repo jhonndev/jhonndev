@@ -44,6 +44,7 @@ Listado de tecnologías que uso para desarrollar diversos tipos proyectos.
 <p>
   <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLserver-white?style=for-the-badge&logo=microsoftsqlserver&logoColor=red">
   <img src="https://img.shields.io/badge/PostgreSQL-0074C3?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-B67056?style=for-the-badge&logo=mariadb&logoColor=white">
 </p>
@@ -55,6 +56,7 @@ Listado de tecnologías que uso para desarrollar diversos tipos proyectos.
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+  <img src="https://img.shields.io/badge/soapui-yellow?style=for-the-badge&logo=soapui&logoColor=green">
 </p>
 
 #### Otras Tecnologías ⚡
@@ -64,7 +66,7 @@ Listado de tecnologías que uso para desarrollar diversos tipos proyectos.
 - Programación Orientada a Objetos y Modelo Vista Controlador
 - Creación de websockets con Java EE
 - Docker, kubernetes, Elastic Stack, webpack, entornos virtuales
-- Microservicios con Angular, patrones de diseño y seguridad
+- Microservicios con Angular y SpringBoot, patrones de diseño y seguridad
 - Pruebas de seguridad de aplicaciones estaticas (SAST)
 - Y algunas más... 😄
 
